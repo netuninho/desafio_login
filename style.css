@@ -1,0 +1,13 @@
+body{
+    background-color: #2176ae;
+}
+
+form{
+    background-color: #f5ee9e;
+    border-radius: 20px;
+    padding: 2%;
+}
+
+legend {
+    text-align: center;
+}
